@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local benchmark inputs and generated experiment artifacts
+data/raw/
+results/
+
+# Operating-system files
+.DS_Store
